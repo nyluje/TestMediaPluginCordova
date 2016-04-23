@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="C:\Users\Julien\Documents\01_Travail\01_Projects\01_Loyalty_project\10_Realisation\02_App\hello\platforms\android\CordovaLib\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Julien\Documents\01_Travail\01_Projects\01_Loyalty_project\10_Realisation\02_App\hello\platforms\android\CordovaLib\src\androidTest\assets"/></dataSet></merger>
